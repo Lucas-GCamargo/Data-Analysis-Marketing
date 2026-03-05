@@ -1,0 +1,10 @@
+# Tools required to reproduce this project
+# All tools listed below are free to download
+
+SQL Server Express        https://www.microsoft.com/en-au/sql-server/sql-server-downloads
+SQL Server Management Studio (SSMS)   https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms
+Power BI Desktop          https://powerbi.microsoft.com/en-au/downloads/
+
+# Data sources (public, free)
+Ads dataset:   https://www.kaggle.com/datasets/naniruddhan/online-advertising-digital-marketing-data
+Sales dataset: https://www.kaggle.com/datasets/idriskoladeaderoju/global-e-commerce-transactions
