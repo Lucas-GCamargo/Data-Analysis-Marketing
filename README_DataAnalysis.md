@@ -350,7 +350,7 @@ Data-Analysis-Marketing/
 I am a data analyst with hands-on experience in SQL, Power BI, and end-to-end analytics pipelines. I am actively seeking **Data Analyst** or **Business Intelligence** roles where SQL, Power BI, and business-first thinking can drive measurable commercial outcomes.
 
 - 📧 [lucascamargo@outlook.com.au](mailto:lucascamargo@outlook.com.au)
-- 🔗 [linkedin.com/in/lucas-camargo-614307139](https://www.linkedin.com/in/lucas-camargo-614307139/)
+- 🔗 [linkedin.com/in/lucasgcamargo](https://www.linkedin.com/in/lucasgcamargo/)
 
 ---
 
