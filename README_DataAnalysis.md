@@ -6,7 +6,6 @@
 [![Privacy](https://img.shields.io/badge/Compliance-Privacy_Aggregation-0078D4?style=for-the-badge&logo=microsoftazure)](https://www.oaic.gov.au)
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/Lucas-GCamargo/Data-Analysis-Marketing)
 
-> **Note on languages:** GitHub shows HTML as the primary language because the dashboard output is an interactive HTML report. The core analysis was built in **SQL Server (T-SQL)** with results published in **Power BI**.
 
 > **An end-to-end analytics pipeline combining 540,000+ global e-commerce transactions with multi-channel ad data to explore campaign spend patterns and surface potential inefficiencies — built with a SQL privacy aggregation layer for responsible data handling.**
 
