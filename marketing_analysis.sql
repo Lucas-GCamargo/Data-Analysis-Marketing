@@ -250,6 +250,7 @@ FROM sales_ads_joined_focus
 GROUP BY banner
 ORDER BY revenue DESC;
 
+
 -- ============================================================
 -- END OF SCRIPT
 -- ============================================================
